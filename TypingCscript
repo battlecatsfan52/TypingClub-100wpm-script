@@ -1,5 +1,4 @@
-const minDelay = 4; // Reduced delay for faster typing  |\
-                                                           SET MINDELAY AND MAXDELAY TO DIFFRENT NUMBERSconst minDelay = 4; // Reduced delay for faster typing
+const minDelay = 4; // Reduced delay for faster typing  
 const maxDelay = 10; // Reduced delay for faster typing
 
 const keyOverrides = {
